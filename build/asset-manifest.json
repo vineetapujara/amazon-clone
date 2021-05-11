@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aeecea0e.chunk.css",
+    "main.js": "/static/js/main.aab77cf1.chunk.js",
+    "main.js.map": "/static/js/main.aab77cf1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e2a9cdff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e2a9cdff.js.map",
+    "static/js/2.fc26f6ba.chunk.js": "/static/js/2.fc26f6ba.chunk.js",
+    "static/js/2.fc26f6ba.chunk.js.map": "/static/js/2.fc26f6ba.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.aeecea0e.chunk.css.map": "/static/css/main.aeecea0e.chunk.css.map",
+    "static/js/2.fc26f6ba.chunk.js.LICENSE.txt": "/static/js/2.fc26f6ba.chunk.js.LICENSE.txt",
+    "static/media/Amazon_logo.f88d7386.svg": "/static/media/Amazon_logo.f88d7386.svg",
+    "static/media/amazon-logo.64a0d895.png": "/static/media/amazon-logo.64a0d895.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2a9cdff.js",
+    "static/js/2.fc26f6ba.chunk.js",
+    "static/css/main.aeecea0e.chunk.css",
+    "static/js/main.aab77cf1.chunk.js"
+  ]
+}
